@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Weekly Reflection"
-date: 2018-09-27
+date: 2018-09-21
 ---
 
 Hi there, I'm Brandon, and today, I will reflect about Intro to CS. We've learned a lot of stuff, some of them that I didn't even knew.
