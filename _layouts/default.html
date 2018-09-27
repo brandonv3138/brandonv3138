@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <HTML>
 	<head>
-		<title>Brandon's homepage!</title>
+		<title>{{ page.title }}</title>
 	<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -15,10 +15,9 @@
     		</ul>
 		</nav>
 		<div class="container">
-		---
-		layout: default
-		title: Brandon's homepage!
-		---
+			
+			{{ content }}
+			
     		<div class="blurb">
         		<h1>Hi there, I'm Brandon!</h1>
 				<p>I haven't setted this up yet...</em> Welcome! <a href="/about">DO NOT CLICK</a></p>
