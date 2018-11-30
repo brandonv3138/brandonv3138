@@ -3,6 +3,9 @@ layout: post
 title: "Eleventh Weekly Reflection"
 date: 2018-11-30
 ---
+
+This week, I took the exam, it was really hard and took a lot of time to solve each answer. Although I did not finished all of the exam, I have gotten 8 answers correct, now I will talk about one of the questions, which is question 10.
+
 I chose the question **#10** from the Midterm exam. 
 
 What is this question asking.
