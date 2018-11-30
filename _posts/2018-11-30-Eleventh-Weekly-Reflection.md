@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eleventh Weekly Reflection"
-date: 2018-11-39
+date: 2018-11-30
 ---
 I chose the question **#10** from the Midterm exam. 
 
