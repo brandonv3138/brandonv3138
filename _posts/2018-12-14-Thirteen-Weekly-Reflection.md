@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thirteen Weekly Reflection"
-date: 2018-12-32
+date: 2018-12-14
 ---
 Currerently, I am still in progress in my flag project, it is the United Kingdom flag. Here is the code of the flag 
 (define size 300)
@@ -19,4 +19,4 @@ Currerently, I am still in progress in my flag project, it is the United Kingdom
 
 (define UKflag  (put-image redstripe_1 300 150 (put-image redstripe_2 300 150 (put-image whitestripe_1 300 150 (put-image whitestripe_4 300 150 (put-image whitestripe_3 300 150 (put-image whitestripe_2 300 150 bluebackground)))))))
 
-Running it would look something like this ![United Kingdom Flag in Progress](/images/flagv2.png)
+Running it would look something like this ![United Kingdom Flag in Progress](/images/Flagv2.png)
