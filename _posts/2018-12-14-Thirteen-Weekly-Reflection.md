@@ -3,7 +3,8 @@ layout: post
 title: "Thirteen Weekly Reflection"
 date: 2018-12-14
 ---
-Currerently, I am still in progress in my flag project, it is the United Kingdom flag (known as the Union Jack). Here is the code of the flag 
+Currerently, I am still in progress in my flag project, it is the United Kingdom flag (known as the Union Jack). 
+Here is how I programmed the flag, it isn't done but it looks great to start off.
 (define size 300)
 (define width 600)
 (define height 300)
