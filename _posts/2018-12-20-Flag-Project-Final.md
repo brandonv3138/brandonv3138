@@ -4,7 +4,7 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of United Kingdom by Brandon V.
+## Flag of _insert your country_ by _insert your name_
 
 ## Describe your program
 
