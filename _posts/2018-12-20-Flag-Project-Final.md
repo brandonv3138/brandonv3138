@@ -23,15 +23,29 @@ The country I have designed for is the United Kingdom, it has took me about 1 we
 
 
 ## Explain your code.
-
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
+-   Explain each argument in the code section.
+-   Tell us how it functions independently and within the whole program.
 
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+(define size 300)
+(define width 600)
+(define height 300)
+(define stripeheight (* height 2))
+(define stripewidth (* height 0.22))
+(define bluebackground (rectangle width height "solid" "navy"))
+(define whitestripe_1 (rectangle stripeheight 100 "solid" "white"))
+(define whitestripe_2 (rectangle 100 stripeheight "solid" "white"))
+(define redstripe_1 (rectangle stripeheight stripewidth "solid" "crimson"))
+(define redstripe_2 (rectangle stripewidth stripeheight "solid" "crimson"))
+(define whitestripe_3 (rotate 27 (rectangle 700 60 "solid" "white")))
+(define whitestripe_4 (rotate -27 (rectangle 700 60 "solid" "white")))
+(define redstripe_3 (rotate -63 (rectangle 20 300 "solid" "crimson")))
+(define redstripe_4 (rotate -63 (rectangle 20 300 "solid" "crimson")))
+(define redstripe_5 (rotate 63 (rectangle 20 300 "solid" "crimson")))
+(define redstripe_6 (rotate 63 (rectangle 20 300 "solid" "crimson")))
+
 ```
 
 * * *
