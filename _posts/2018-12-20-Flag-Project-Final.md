@@ -4,14 +4,11 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _United Kingdom_ by _Brandon V._
+## Flag of United Kingdom by Brandon V.
 
 ## Describe your program
 
--   What country did you design for? The country I have designed for is the United Kingdom.
--   What grade do you expect? The grade I expect is a 3 because there is a small error and it is hard to fix the issue.
-
-<!--- Delete this comment and add your writing -->
+The country I have designed for is the United Kingdom, it has took me about 1 week, it started off very easy. Blue background and 2 white stripes, then I was struggling because I didn't know how to make it accurate as the UK flag. As I progressed, I learned more about the flag. The name of the flag is called "Union Jack", it represents the 3 countries. England, Ireland and Scotland. Later on, I added 2 crosses which represents Scotland. Rotating it was difficult since it was a rectangle flag. I tried many attempts so it can look accurate as possible. It took me some time but I got the right rotation, I repeated with the red stripes, different rotation number although. I finished up, colors were off and there was a problem. Another student helped me with changing the colors to look more accurate. Replacing "blue" with "navy", "red" with "crimson". It looked better and completed, I was proud of doing this. I expect that my grade is a 4 because I had try my best to make a accurate version of the United Kingdom flag.
 
 ## Current output
 * * *
