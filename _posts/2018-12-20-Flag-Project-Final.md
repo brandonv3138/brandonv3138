@@ -17,9 +17,7 @@ The country I have designed for is the United Kingdom, it has took me about 1 we
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+I asked another peer to change the colors to look more realistic, I also used images from the internet to give me references of the Union Jack flag.
 
 
 ## Explain your code.
